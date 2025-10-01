@@ -1,0 +1,21 @@
+</div>
+<script>
+  (function(){
+    const nav=document.querySelector('nav.pagination');
+    if(!nav) return;
+    nav.addEventListener('mousedown',h,true);
+    nav.addEventListener('touchstart',h,true);
+    nav.addEventListener('focusin',h,true);
+    function h(e){
+      const t=e.target.closest('[data-page-id]');
+      if(!t||t.tagName==='A'){return}
+      const n=t.getAttribute('data-page-id');
+      const a=document.createElement('a');
+      a.href=n==='1'?'/lp/orfjobs':'/lp/orfjobs/page/'+n+'/';
+      a.textContent=t.textContent; a.className=t.className; a.classList.remove('current');
+      t.replaceWith(a);
+    }
+  })();
+</script>
+</body>
+</html>

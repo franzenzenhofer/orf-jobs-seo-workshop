@@ -1,0 +1,125 @@
+SEO
+https://www.evi.gv.a
+t/lp/orfjobs
+Analyse & Umbau der ORF-Jobs Listenansicht (/lp/orfjobs) mit realem Ist-HTML, einem
+semantisch reicheren Soll-Listeneintrag (Daten aus der Detailseite), konsistenter Darstellung
+abgelaufener Jobs sowie JS-basierter, linkloser Pagination.
+
+1. Ist-Zustand (REALER
+List-Seiten-HTML-Ausschnitt)
+<section>
+<ul class="divide-trennLinie divide-y">
+<li class="mb-4 max-w-[120ch]">
+<a class="grid gap-2 pb-4 hover:underline lg:grid-cols-[22ch_1fr] lg:gap-4"
+href="/b/pi/bmr-mly">
+<p class="text-lg"><span class="text-gray">Online seit:
+</span>25.09.2025</p>
+<p class="text-lg">Korrespondent:in (Büroleiter:in) Büro Belgrad
+(01.07.2026 – 30.06.2028)</p>
+</a>
+</li>
+
+<li class="mb-4 max-w-[120ch]">
+<a class="grid gap-2 pb-4 hover:underline lg:grid-cols-[22ch_1fr] lg:gap-4"
+href="/b/pi/bmq-995">
+<p class="text-lg"><span class="text-gray">Online seit:
+</span>23.09.2025</p>
+<p class="text-lg">Gruppenleiter:in Metadaten und Archivsysteme</p>
+</a>
+</li>
+<li class="mb-4 max-w-[120ch]">
+<a class="grid gap-2 pb-4 hover:underline lg:grid-cols-[22ch_1fr] lg:gap-4"
+href="/b/pi/bmq-996">
+<p class="text-lg"><span class="text-gray">Online seit:
+</span>23.09.2025</p>
+<p class="text-lg">Gruppenleiter:in Archivredaktion</p>
+</a>
+</li>
+<li class="mb-4 max-w-[120ch]">
+<a class="grid gap-2 pb-4 hover:underline lg:grid-cols-[22ch_1fr] lg:gap-4"
+href="/b/pi/bmq-997">
+<p class="text-lg"><span class="text-gray">Online seit:
+</span>23.09.2025</p>
+<p class="text-lg">Gruppenleiter:in Programmservice</p>
+</a>
+</li>
+</ul>
+<span class="bg-primary text-onPrimary mx-auto block w-fit px-4 py-2 text-lg">
+Alle Stellenausschreibungen
+</span>
+</section>
+
+2. Soll-Zustand (reicher,
+semantischer Listeneintrag)
+Beispiel für bmr-mly mit echten Feldern aus der Detailseite.
+
+Aktiver Job
+<li class="job-posting status-active" data-job-id="bmr-mly">
+<article aria-labelledby="job-title-bmr-mly">
+<header>
+<h3 class="job-title" id="job-title-bmr-mly">
+<a href="/b/pi/bmr-mly">Korrespondent:in (Büroleiter:in) Büro Belgrad</a>
+</h3>
+<p class="hiring-organization">Österreichischer Rundfunk (ORF)</p>
+</header>
+<dl class="job-details">
+<dt>Standort:</dt>
+<dd>Belgrad</dd>
+<dt>Veröffentlicht am:</dt>
+<dd><time datetime="2025-09-25">25.09.2025</time></dd>
+<dt>Bewerbungsfrist beginnt:</dt>
+<dd><time datetime="2025-09-25">25.09.2025</time></dd>
+<dt>Bewerbungsfrist endet:</dt>
+<dd><time datetime="2025-10-08">08.10.2025</time></dd>
+<dt>Jahresgehalt (Brutto):</dt>
+<dd>ab € 67.101,72</dd>
+<dt>Beschäftigungsbeginn:</dt>
+<dd><time datetime="2026-07-01">01.07.2026</time></dd>
+<dt>Beschäftigungsende:</dt>
+<dd><time datetime="2028-06-30">30.06.2028</time></dd>
+<dt>Verwendungsgruppe:</dt>
+<dd>VG 8</dd>
+</dl>
+</article>
+</li>
+
+3. Abgelaufene Jobs
+
+Gleiche Struktur, weiterhin klickbar (Headline verlinkt zur Detailseite), optisch ausgegraut +
+Label.Wenn weniger als 10 jobs dann "Fuelle das Listing bis 10 Jobs auf"
+
+Abgelaufen (Beispiel mit vorhandenem Listeneintrag)
+<li class="job-posting status-expired" data-job-id="bmq-995">
+<article aria-labelledby="job-title-bmq-995">
+<header>
+<h3 class="job-title" id="job-title-bmq-995">
+<a href="/b/pi/bmq-995">Gruppenleiter:in Metadaten und Archivsysteme</a>
+</h3>
+<p class="hiring-organization">Österreichischer Rundfunk (ORF)</p>
+</header>
+<div class="expired-label">Bewerbungsfrist abgelaufen</div>
+<dl class="job-details">
+<dt>Veröffentlicht am:</dt>
+<dd><time datetime="2025-09-23">23.09.2025</time></dd>
+<!-- Weitere Felder (Frist, Gehalt, etc.) werden – wie bei aktiven Jobs –
+aus der jeweiligen Detailseite übernommen, wenn vorhanden. -->
+</dl>
+</article>
+</li>
+
+4. Pagination ohne Links (JS
+übernimmt)
+<nav aria-label="Seitennavigation" class="pagination">
+<span class="page-item current">1</span>
+<span class="page-item" data-page-id="2" role="button" tabindex="0">2</span>
+<span class="page-item" data-page-id="3" role="button" tabindex="0">3</span>
+</nav>
+
+Erklärung: Ein externes JavaScript (z. B. EVI.pager) horcht auf mousedown, touchstart und
+focus und wandelt das jeweils fokussierte <span data-page-id="N"> zur Laufzeit in einen
+echten Link (z. B. <a href="/lp/orfjobs?page=N">N</a>) um. Die Seiten
+
+/lp/orfjobs?page=N, falls direkt aufgerufen, tragen ein <link rel="canonical"
+href="/lp/orfjobs">.
+
+

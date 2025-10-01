@@ -1,0 +1,162 @@
+Critique
+https://www.evi.gv.at/lp/hauptver
+sammlungen
+1. Struktur der Listeneinträge
+Das Kernproblem: Die Einträge sind eine unstrukturierte Ansammlung von Paragraphen, ohne
+logische Hierarchie oder semantische Auszeichnung für wichtige Daten wie Datum oder Ort.
+
+Ist-Zustand:
+<li class="border-b-trennLinie border-b py-3 text-lg break-words md:px-4">
+<a class="grid grid-cols-2 hover:underline lg:grid-cols-[15ch_3fr_1fr]
+lg:grid-rows-1 lg:gap-x-4" href="/b/pi/bmn-387">
+<div class="col-span-2 mb-2 lg:col-span-1 lg:col-start-2">
+<p class="text-lg/4 font-semibold lg:text-lg/6">Project Networld
+AG</p>
+<p class="text-gray">Ordentliche Hauptversammlung</p>
+</div>
+<div class="row-start-2 lg:col-start-1 lg:row-start-1">
+<p class="text-lg/4 lg:text-lg/6">25.09.2025</p>
+<p class="text-gray">vor 5 Tagen</p>
+</div>
+<p class="row-start-2 text-lg/4 lg:col-start-3 lg:row-start-1
+lg:text-lg/6">
+<span class="hidden md:inline">1030 </span>
+<span>Räumlichkeiten der Gesellschaft</span>
+</p>
+</a>
+</li>
+
+Kritikpunkte:
+●​ Keine Überschrift: Der Firmenname "Project Networld AG" ist ein simpler
+<p>-Tag. Keine semantische Gewichtung.
+●​ Semantische Armut: Datum und Ort sind nicht als solche ausgezeichnet.
+●​ Barrierefreiheits-Problem: Der gesamte Block ist ein Link. Ein Screenreader liest
+den kompletten Inhalt als einen einzigen, langen Link-Text vor.
+
+Soll-Zustand:
+<li class="veranstaltungs-eintrag">
+<article aria-labelledby="versammlung-bmn-387">
+<h3>
+<a href="/b/pi/bmn-387" id="versammlung-bmn-387">
+Project Networld AG
+</a>
+</h3>
+<dl class="veranstaltungs-details">
+<dt class="sr-only">Art</dt>
+<dd>Ordentliche Hauptversammlung</dd>
+<dt>Datum der Veranstalltung</dt>
+<dd>
+<time datetime="2025-09-25">25.09.2025</time>
+<span class="text-gray">(vor 5 Tagen)</span>
+</dd>
+<dt>Veranstaltungsort</dt>
+<dd>1030 Wien, Räumlichkeiten der Gesellschaft</dd>
+</dl>
+</article>
+</li>
+
+Verbesserungen:
+●​ Korrekte Hierarchie: Der Firmenname ist jetzt eine <h3>, was eine logische
+Gliederung unter der Hauptüberschrift (<h2>) darstellt.
+●​ Definition List (<dl>): Perfekt für Schlüssel-Wert-Paare. "Datum" ist der Term
+(<dt>), "25.09.2025" die Beschreibung (<dd>).
+
+●​ <time>-Element: Das datetime-Attribut liefert eine maschinenlesbare Version.
+Struktur
+●​ Fokussierter Link: Nur der Name ist verlinkt. Anchor Text
+●​ Barrierefreiheit OPTIONAL: Der <article>-Tag gruppiert den Inhalt und ist via
+aria-labelledby mit der Überschrift verbunden.
+
+2. FAQ-Sektion
+Die FAQ-Sektion verwendet zwar das korrekte <details>-Element, vergibt aber massives
+SEO-Potenzial durch standardmäßig eingeklappten Inhalt und fehlendes Schema.org-Markup.
+
+Ist-Zustand:
+<details class="group bg-secondary-alpha mb-2 p-4 text-black">
+<summary>
+<p>Wer muss die Einladung zur Hauptversammlung auf EVI
+veröffentlichen?</p>
+</summary>
+<p>Auf EVI werden in der Regel die Hauptversammlungs-Einladungen von ...
+veröffentlicht.</p>
+</details>
+
+Kritikpunkte:
+●​ Inhalt verborgen: Der Inhalt ist standardmäßig eingeklappt, was dessen
+Wichtigkeit für Crawler reduzieren kann.
+●​ Kein Schema.org-Markup: Eine riesige verpasste Chance für "FAQ Rich Snippets"
+in den Google-Suchergebnissen.
+
+Soll-Zustand:
+Die Lösung besteht aus zwei Teilen: Das HTML wird standardmäßig geöffnet und mit
+strukturierten Daten (JSON-LD) angereichert.
+1. Optimiertes HTML
+
+<!-- Das 'open'-Attribut sorgt für die standardmäßige Sichtbarkeit -->
+<details class="group bg-secondary-alpha mb-2 p-4 text-black" open>
+<summary>
+<p>Wer muss die Einladung zur Hauptversammlung auf EVI
+veröffentlichen?</p>
+</summary>
+<p>Auf EVI werden in der Regel die Hauptversammlungs-Einladungen von ...
+veröffentlicht.</p>
+</details>
+
+2. Schema.org Markup (via JSON-LD)
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "FAQPage",
+"mainEntity": [
+{
+"@type": "Question",
+"name": "Wer muss die Einladung zur Hauptversammlung auf EVI
+veröffentlichen?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Auf EVI werden in der Regel die Hauptversammlungs-Einladungen
+von österreichischen börsennotierten Aktiengesellschaften (AGs), österreichischen
+Europäischen Gesellschaften (SEs), Genossenschaften, Sozialversicherungsträgern
+für Selbstständige, Beamten-Kranken- und Unfallversicherungen sowie Vereinen
+veröffentlicht."
+}
+},
+{
+"@type": "Question",
+"name": "Was ist der Unterschied zwischen Hauptversammlungen und
+Generalversammlungen?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "In Österreich unterscheidet sich die Bezeichnung der
+Versammlungen nach der Organisationsform: Aktiengesellschaften rufen zu
+Hauptversammlungen zusammen, Genossenschaften und Vereine hingegen versammeln
+ihre Mitglieder in Generalversammlungen."
+}
+}
+]
+}
+</script>
+
+Verbesserungen:
+●​ Standardmäßig offen: Das open-Attribut macht den Inhalt sofort sichtbar und für
+Crawler leicht zugänglich.
+●​ FAQPage Schema: Qualifiziert die Seite für interaktive FAQ-Boxen direkt in den
+Suchergebnissen, was die Sichtbarkeit und Klickrate drastisch erhöhen kann.
+
+3. Fehlende informative Alt-Texte
+Bilder, die kontextuell relevant sind, müssen für Barrierefreiheit und Bilder-SEO einen
+beschreibenden Alternativtext haben.
+
+Ist-Zustand:
+<img alt="" loading="lazy" width="270" height="180" src="...">
+
+Soll-Zustand:
+<img alt="Teilnehmer einer geschäftlichen Hauptversammlung in einem
+Konferenzraum" loading="lazy" width="270" height="180" src="...">
+
+Verbesserungen:
+●​ Beschreibender Alt-Text: Macht den Bildinhalt für Screenreader-Nutzer
+zugänglich und hilft Suchmaschinen, den visuellen Kontext der Seite zu
+verstehen.
+
+

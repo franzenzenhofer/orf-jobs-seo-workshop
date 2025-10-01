@@ -1,0 +1,1564 @@
+www.evi.gv.at
+SEO Workshop 2025
+
+Offer
+
+Notes
+• crawlbudget, crawling - management, crawling budget
+•
+
+indexing, (interlinking ) managment
+
+• faster distruibuton
+• scalealbe districotn
+• kann ich wwert erzeugen.
+• danach wie sie gewisse semenget angehen
+•
+
+job listpages, google for jobs
+
+• tabak listpages,
+• events (hauptversammlungen)
+
+• jahresabschluesed PDFs kommunizieren https://www.evi.gv.at/b/pi/bmp-sg7
+
+Agenda
+• Intro
+• Status Quo Tra c & Goal
+• Understanding SEO
+• Current Technical SEO Challenges
+• AI SEO & Classical SEO
+• Where to go from here
+• Growth Potential
+• Technical Vertical Optimization
+
+ffi
+
+• Q&A
+
+• SEO Tasks
+• SEO Processes
+• Priorization
+
+Rules
+• English. Denglisch. Germisch.
+• Ask Questions.
+• YOU HAVE TO PARTICIPATE!
+• Ask more Questions.
+• NOT PAYING ATTENTION IS TOXIC. TO NOT PAY ATTENTION YOU HAVE TO
+GO OUT.
+
+• Everything you see (slides, docs) you get. For everything else you need to
+take notes.
+
+Intro
+• Why is here?
+• Whats your job?
+• When do you go home with a smile on your face?
+
+Who am I?
+
+• Franz Enzenhofer
+
+• Surfer, Developer, Coder, Marketer, Trainer,
+Consultant
+
+• in 1998 as my rst job ever I made the 1st
+canon.at website.
+
+• Then 2000 building the internet strategy of
+the national Austrian Press Agency.
+
+• 2006 with my rst company which failed
+spectacular.
+
+• Since 2011 with my second company
+
+www.fullstackoptimization.com, the SEO
+company to make all SEO companies,
+including our own, redundant.
+
+fi
+
+fi
+
+• Then I took it from there.FE@F19N.COM
+
+FE@F19N.COM
+
+FE@F19N.COM
+
+FE@F19N.COM
+
+FE@F19N.COM
+
+FE@F19N.COM
+
+• When do I go home with a smile on my face?
+
+• actionable path forward to your growth goal
+• that you will execute and that you want to execute
+
+Super Fast SEO Introduction
+
+• incl Goals, Systematic SEO which then leads to Technical Status Quo &
+Challenges
+
+1) SEO IS A BUSINESS
+
+SEO
+Search Engine Optimization
+•
+
+SEO is the business of getting found!
+
+•
+
+SEO is the business of getting found online!
+
+•
+
+SEO is all business activities with the goal of getting
+found online!
+
+•
+
+SEO is all business activities in the areas of
+development, content, marketing & communication,
+data with the goal of getting found online!
+
+Classic SEO
+• Organic Search (a.k.a. Unpaid Search)
+• Webpages, Websites, Images, Pdfs, Videos
+- stu that shows up in Google
+
+ff
+
+• Google
+
+LLM Search
+• It's still SEO but with special challenges
+• A huge "man in the middle" (AI)
+• that relies sometimes on past
+"knowledge"
+
+• and somtimes makes up to hundreads
+of live searchs on a "no JS
+searchengine"
+
+• is a measurability black hole (no index /
+impression / views data) and subideal
+tra c data
+
+ffi
+
+• and no established best practices
+
+c
+i
+ss
+
+a
+l
+c
+
+SEO is solved!
+5%/95%
+
+Knowhow/Execution
+
+But Google always changes...
+• yes, but the concept of SEO
+did not change
+
+• adding chat LLMs on top
+was a paradigm shift
+
+SEO Setup
+
+Dev
+Content Marketing
+
+anyone and anything
+that communicates
+for the business
+
+SEO Setup
+
+Dev
+Content Marketing
+
+SEO Setup
+
+Dev
+Marke
+Content
+ting
+
+SEO Setup
+
+Marke
+Dev
+Content
+ting.
+
+ev
+SEO Setup
+
+THE SEO SETUP IS THE SINGLE MOST
+IMPORTANT SEO SUCCESS FACTOR!
+5% Know How / 95% Execution
+
+5% Know How / 95% Execution
+
+SEO SETUP - How does it look on your side?
+
+Dev
+Content Marketing
+
+1000 reasons not to have an SEO optimized
+website
+• You can create the best website in the world and it is not optimized.
+• Setup Reasons
+• Business Reasons
+• Technical Reasons
+• Content Reasons
+• Design Reasons
+• "We planed our website di erently reasons"
+• Sunk Cost Fallacy
+
+ff
+
+• Only search engine optimised websites are search engine optimized.
+
+SEO is the business of getting found.
+
+You need a gaol!
+
+To reach a goal, you need to know where you are.
+
+fi
+
+Traf c Status Quo
+
+fi
+
+Traf c Status Quo
+
+Google Update Impact?
+
+• https://lovable.dev/projects/bc01284c-52a9-4e38-887d-8bc4165c6b74
+
+Brand Long Term
+
+i.e. amtsblatt
+
+*blatt longterm
+
+unbranded long term
+
+What do you get found for?
+
+fi
+
+fi
+
+rst 8 queries are 20% of the traf c
+
+What gets found (Pages)
+
+fi
+
+fi
+
+fi
+
+fi
+
+fi
+
+fi
+
+fi
+
+fi
+
+fi
+
+fi
+
+fi
+
+fi
+
+fi
+
+fi
+
+fi
+
+• https://www.evi.gv.at/b/pi/bmh-5g3 - Philip Morris Austria tobacco prices effective April 2025 (cigarettes, hea
+• https://www.evi.gv.at/b/pi/bml-vbx - Philip Morris Austria cigarette prices effective July 2025
+• https://www.evi.gv.at/b/pi/bmh-5gv - Moosmayr tobacco prices effective April 2025 (cigarettes, rolling tobacc
+• https://www.evi.gv.at/b/pi/bmd-wzk - Austrian Lotteries Lotto Bonus draw dates for 2025
+• https://www.evi.gv.at/lp/orfjobs - ORF (Austrian Broadcasting) current job openings
+• https://www.evi.gv.at/b/pi/bmh-5gs - Tobaccoland tobacco prices effective April 2025 (cigarettes, cigars, toba
+• https://www.evi.gv.at/b/pi/bl2-fns - Tobaccoland tobacco prices effective April 2024
+• https://www.evi.gv.at/f/657971f - La Porkeria GmbH company pro le (restaurant and wine bar in Bad Hall)
+• https://www.evi.gv.at/f/659274x - elevATed charging solutions GmbH company pro le (EV charging stations)
+• https://www.evi.gv.at/b/pi/bmh-ct8 - Moosmayr cigarette prices effective March 2025
+• https://www.evi.gv.at/f/61689w - STRABAG AG company pro le (construction corporation in Spittal an der D
+• https://www.evi.gv.at/f/34160k - PORR Bau GmbH company pro le (construction company in Vienna)
+• https://www.evi.gv.at/f/659454k - GST Generator-Service-Technik GmbH company pro le (electrical machin
+• https://www.evi.gv.at/f/150714p - UniCredit Bank Austria AG company pro le (major bank in Vienna)
+• https://www.evi.gv.at/f/656130y - Strada garden OG company pro le (restaurant/catering business in Vienna)
+• https://www.evi.gv.at/f/499665b - Brandize GmbH company pro le (trading company in Axams)
+• https://www.evi.gv.at/f/658686g - Gebrüder Gollner GmbH company pro le (automotive repair and body shop
+• https://www.evi.gv.at/f/658442y - Balkan Arena PB KG company pro le (gastronomy business in Klagenfurt)
+• https://www.evi.gv.at/f/83175t - Swietelsky AG company pro le (construction corporation in Linz)
+• https://www.evi.gv.at/b/pi/bmm-msn - Moosmayr tobacco and cannabis product prices effective July 2025
+• https://www.evi.gv.at/f/203160s - Raiffeisenlandesbank Niederösterreich-Wien AG company pro le (bank in V
+• https://www.evi.gv.at/f/658256z - Gut am Manhartsberg Vertriebs GmbH company pro le (wine and goods tra
+• https://www.evi.gv.at/f/655089t - Bergmann & Partner GmbH company pro le (property management in Bad
+• https://www.evi.gv.at/f/658848w - SKS Holding GmbH company pro le (investment holding company in Vol
+•
+
+/b/pi/ only
+
+• i.e.: https://
+
+www.evi.gv.at/b/pi/
+bly-qcy
+
+/f/ only
+• https://www.evi.gv.at/f/
+203160s
+
+•
+
+<title>RAIFFEISENLANDESBANK
+NIEDERÖSTERREICH- WIEN AG
+1020 Wien | Firmenbuch EVI</title>
+
+What is this "other" (not /b/ not /f/)
+
+SEO is the business of getting found.
+
+You need a gaol!
+
+The goal of SEO is always Growth
+
+• Tra c, Users, Leads, Revenue, Money, Impact
+• If you do not want to grow - or keep your performance - or do not care
+
+ffi
+
+about getting found, dont do SEO.
+
+SEO Goals
+• Simple goal formula:
+• Quantitative goal: x% growth of organic search tra c in y
+months.
+
+• Qualitative goal: The tra c must be meaningful to our
+business goal and at least %qualitative criterion%.
+
+• Never start SEO with no explicit, measurable goal.
+• SEO is all business activities with the goal to be found
+ffi
+
+ffi
+
+online.
+
+grow this
+
+more /lp/, more
+"other"
+
+make sure this keeps
+growing / scales
+
+keep performing
+
+fi
+
+Traf c Status Quo
+
+How to get there!
+
+2) SEO Knowledge
+
+c
+i
+ss
+
+a
+l
+c
+
+SEO is solved!
+5%/95%
+
+Knowhow/Execution
+
+fi
+
+Veri kationsbubble
+
+fi
+
+SEO Knowledge 1: Google Speci cations
+
+support.google.com
+
+developers.google.com
+
+developers.google.com
+
+webmasters.google.com
+
+https://bit.ly/searchqualityevaluator
+
+There is a spec for everything* Google Search
+
+• 80% great, insightful and directly actionable
+• 20% confusing, outdated, not actionable
+
+the specs on AI Overviews and AI Search are few
+and shallow, though...
+
+SEO Knowledge 2: Feedback
+
+• Whenever you do something, be sure to get some feedback.
+
+Feedback Tools by Google
+80%
+
+use with
+
+use with
+
+Ignore the Brainshare Parasites
+
+“the latest SEO Trick”
+• Read the speci cations
+• When you do something, check in for feedback.
+• 2 weeks, 2 months
+• Ignore Opinions a.k.a. SEO Blogs
+• Use
+
+fi
+
+fi
+
+like crazy. Go AI rst.
+
+3) Systematic SEO & Status Quo
+
+•
+
+Targeted Pages
+•
+
+Targeted Detail Page (shows 1 Item)
+
+•
+
+Targeted List Page (shows multiple items)
+
+•
+
+Distribution (sitemap.xml)
+
+•
+
+Startpage
+
+•
+
+Everything else is Ballast!
+
+Plattform
+
+SEO Plattform
+
+Ballast
+• Pages that don't want to be found for anything (i.e. all pages except
+
+Targeted Pages and the Startpage) are ballast from SEO point of view.
+
+• Ballast should either not exist.
+• "HTTP 404 File not Found" for non-existing pages
+• "HTTP 410 Gone" for non-existent pages
+• Or not be indexed.
+• <meta name="robots" content="noindex">
+
+Typical Ballast
+• Error Pages -> HTTP 404
+• Non-existent pages -> HTTP 404
+• Search Pages -> noindex
+• Pagination Pages -> noindex
+• Navigation Pages -> noindex
+• SEO Interlinking Pages -> noindex
+
+• If only a small amount of ballast pages exist on the website, simply ignore them. The problem starts when the main
+part of the pages on large websites are ballast pages and hinders the pages that you care about to get crawled and
+indexed.
+
+• But: Non-existing pages should always return HTTP 404 File not Found, otherwise you will spam yourself very
+fast.
+
+Edge Cases but not Ballast
+• Imprint, Terms and Conditions, Contact are not Ballast Pages
+• But "Branded Targeted Pages”
+• You want to be found when someone searches for "%Brand% Imprint",
+"%Brand% Contact", "%Brand% Terms & Conditions".
+
+•
+
+if we add x% more targeted-pages to our site, we gain y% more
+traf c.
+
+•
+
+if we update x% of our pages, we gain z% more traffic.
+
+•
+
+if we make the user experience of our site better, our traf c gets
+more sustainable.
+
+•
+
+if we gain more brand recognition, our traf c gets more
+sustainable.
+
+•
+
+if other sites point x% more links to our targeted-pages, we gain
+y% more traffic.
+
+Processes
+
+after the SEO platform is optimized, this SEO business logic is
+possible:
+
+fi
+
+•
+
+fi
+
+fi
+
+SEO Business Case
+
+•
+
+SEO process optimization is all about:
+
+•
+
+how do we create x% more targeted-pages with valuable,
+unique content? (detail pages and list pages)
+
+•
+
+how do we add content/update x% of our targeted-pages?
+
+•
+
+how do we assure that our site gets better usage values?
+
+•
+
+how do we assure that our site gets more brand
+recognition?
+
+•
+
+how do we get other sites to point x% more links to our
+targeted-pages?
+
+Processes
+
+SEO Processes
+
+Blackbox Google
+
+fi
+
+Veri kationsbubble
+
+= Marktplatz
+
+Angebot
+Nachfrage
+
+fi
+
+Think Mobile First
+
+• in the future 70% to 80% of all your users will come via mobile devices
+•
+
+rst contact will be about 80% of the time mobile, even for b2b
+
+Think bottom up!
+
+• No prior context. Navigation does not matter. Think in targeted landing pages, how to inform the users,
+solve their problems, where to lead them next from there. (Bottom Up Thinking)
+
+• Do not think about Startpage or where users navigate from there. That is the opposite of SEO. (Top Down)
+
+• f pages have - compared to the /b/ a pretty high bounce rate
+
+• Brand, yeah starting (more than *blatt by now)
+• But no strong brand + organic variation searches
+
+*blatt
+
+But: Inconsistent SEO Branding Strategy
+
+• Recommendation:
+• EVI.gv.at: %uniqe titel% | %category%
+
+fi
+
+• EVI.gv.at: Bundesministerium für Bildung | Pro l
+
+• Need to check if even indexted
+
+Indexing
+
+Pages that you want!
+
+This is what you want!
+
+This is what you don’t wan’t.
+
+•
+
+Targeted Pages
+•
+
+Targeted Detail Page (shows 1 Item)
+
+•
+
+Targeted List Page (shows multiple items)
+
+•
+
+Distribution (sitemap.xml)
+
+•
+
+Startpage
+
+•
+
+Everything else is Ballast!
+
+Plattform
+
+SEO Plattform
+
+Ballast - or - subideal distribution!
+
+This is what you don’t want!
+
+This is what you want.
+But should me minimal, as it is a crawling issue.
+
+indexing, do not worry about it when
+
+• if you do not have a crawling issue
+• and if more than 90% (for big
+
+sites, and 98% for small sites)
+pages are indexed, than all is ok
+and do not worry about indexing
+
+• even if you have
+• indexed ballast
+• and non indexed ballast
+ff
+
+you get your stu indexed
+
+indexing, do worry about it when
+• when less than 90% of your
+
+submitted pages (big website) are
+not indexed
+
+• or less than 98% of your submitted
+
+pages (small website) are not index,
+
+• worry about indexing.
+• worry about indexing means
+
+reducing the grey part of “all
+submitted pages”
+
+• one measurement to improve
+
+indexing is to reduce the green
+part of “unsubmitted pages only”
+as the wrong pages might be
+indexed.
+
+ballast, do worry about it when
+
+• if you have a crawling issue
+• but more than 90% (for big sites,
+
+and 98% for small sites) pages are
+indexed, than all is ok and do not
+worry about indexing
+
+• then you have
+
+• ballast issue
+• and should reduce number
+of not indexed pages of
+unsubmitted pages.
+
+Indexing
+• You have growing indexing issues!
+
+Submitted Pages
+Green is good
+
+Gray is bad
+
+Submitted - Not Indexed is Growing
+
+they really are noindex
+
+Unsubmitted Pages
+
+Green is bad
+
+Gray is OK,
+but should be
+minimal
+
+not submitted, index, set to index, not in sitemap
+
+bigger issue: unsubmitted, not indexed growing
+an growing
+
+the "unternehmen24" issue
+
+New Issue 29.09.2025
+
+Crawling
+
+Crawl Budget - Milchmädchenrechnung
+• Smartphone Crawls / 90 Days = Crawls per Day
+• ((Indexed + not Indexed pages Google knows) - blocked by robots.txt) / Pages
+Crawled by Smartphone per day = Days it takes to crawl the whole site 1 time
+
+• Good: < 14 days (good for small sites, very good for big sites (10k pages
+plus))
+
+• Ok-ish: between 14 and 30 days (good for big sites, for small site you have a
+crawling issue )
+
+• Bad: > 30 days - you have a crawling issue
+
+SCOPE: Backend & Server Configuration
+
+Average Response Time - Google Search Console
+GOALS
+Goal Values
+Average response time
+
+Max Values
+
+200 ms
+
+400 ms
+
+SHOULD
+
+• the server response time / time to rst byte is the time it takes the browser to answer a
+client request. a fast server response is a crucial web performance requirement
+
+• the site reach the goals of 200ms (max 400ms)
+• IT IS VERY IMPORTANT THAT THE PAGES ARE ALREADY CACHED BEFORE
+GOOGLE FETCHES THE PAGES - GOOGLE IS VERY OFTEN THE FIRST OUTSIDE
+REQUEST - SO A CACHE WARMING / PREFILL IS NECESSARY
+TOOLS
+
+• monitor server response time in google search console: https://search.google.com/searchconsole/settings/crawl-stats/drilldown?resource_id={%url-encode-domain%}& le_type=1
+
+fi
+
+fi
+
+• https://speedvitals.com/ttfb-test
+
+https://chatgpt.com/share/e/68ca9c60-2fdc-8008-8969-d40cb4389afb
+
+https://www.evi.gv.at/f/85606t
+
+do you really use all that next_f.push()??
+
+Heureka Moment!! this is
+propably part
+of the crawling issue that you
+have, too.
+
+• in the last 2 years one of my most successful onpage SEO projects was
+slimming down the payload, root HTML size
+
+Crawling to Indexing Scaling Issue
++
+
+• = non SEO scaleable plattform
+
+Scaleable SEO Plattform
+Solutions
+• This must go up ->
+
+• This must go down (both, the
+gray and the green) ->
+
+• Or this goes up ->
+
+Sadly everything blocked via robots.txt is a
+crawling solution but an indexing bug.
+
+There are multiple kinds of crawling
+
+Domain Setup evi.gv.at
+
+02.99.2025
+
+Domains and their robots.txt
+
+assets.evi.gv.at has an issue
+
+Crawled FileTypes on assets.evi.gv.at
+
+->
+
+• the robots.txt of www.evi.gv.at does not have any impact here
+
+assets.evi.gv.at crawlers
+
+https://www.evi.gv.at/f/162414w
+
+Next.js Chunks hosted on assets.evi.gv.at
+
+better reporting
+
+Crawling Fazit
+• you crawling must be improved for a scaleable webproperty
+• additional it should be improved for a more real time crawling of newly
+
+fi
+
+published and updated pages, as at one point you will run into crawling
+issues again so it must be paramount that your new and updated pages
+always get crawled and indexed rst
+
+3 SEO Tests to do 80% of technical onpage/onsite SEO right!
+• Speed: Page Speed Insights: minimum score of 80 (still orange) / preferrably 90 (green) +
+sensemaking screenshots for desktop and mobile!
+
+• “JS turned o ” Test:
+• Above fold and main content must be visible on the site with JS turned o !
+• Interlinking must work with JS turned o ! (Visible Links must be links.)
+• Render Test:
+• https://search.google.com/test/rich-results Rich Result Test -> Screenshot
+• (Login) Google Search Console -> Inspect URL -> Test Live URL -> View Tested Page ->
+
+ff
+
+ff
+
+ff
+
+Screenshot must show rendered page! (Images below fold (non-visible) might get lazy
+loaded)
+
+i.e.: https://www.evi.gv.at/f/656811z
+
+19.08.2025
+
+but second test
+
+19.08.2025
+
+Core Web Vitals
+
+i.e.: https://www.evi.gv.at/f/656811z
+
+No JS
+
+i.e.: https://www.evi.gv.at/f/656811z
+
+i.e.: https://www.evi.gv.at/b/pi/bmf-vry
+
+no JS
+
+Speed - a deeper look - most important issues
+
+Other Onpage Issues (Franz SEO Testign TOOL)
+
+Speed - overall good job! but i.e.: https://www.evi.gv.at/
+f/85606t - https://evi2.franzai.com/#slide-s2
+
+too much javascript
+
+fi
+
+avoid blocking poly lls
+
+defere 3rd party
+
+Brotli is better
+
+don't forget long TTL caching headers for SVGs
+and others
+
+https://www.evi.gv.at/f/85606t
+
+do you really use all that next_f.push()??
+
+Heureka Moment!! this is
+propably part
+of the crawling issue that you
+have, too.
+
+• in the last 2 years one of my most successful onpage SEO projects was
+slimming down the payload, root HTML size
+
+Speed i.e. //www.evi.gv.at/b/pi/bmj-pz3
+• https://pagespeed.web.dev/analysis/https-www-evi-gv-at-b-pi-bmjpz3/1iyou0bsoe?form_factor=mobile
+
+• similar issue as the /f/ page
+
+a /b/ page
+
+Startpage - i.e. https://evi2.franzai.com/#slide-s1
+
+• similar issues as the /f/ pages, point to framework issues
+
+Startpage
+
+about your URLs
+
+Rule 3: Create Sup-properties and Verify them
+
+fi
+
+without the rst 2 interlinking rules this will grow
+
+this will grow, 2
+
+• + tra c of old pages will
+
+ffi
+
+underperform
+
+Interlinking
+
+Scope: Best Practice
+
+Interlinking on every Targeted Page
+every targeted page should contain
+a dedicated interlinking section
+with:
+•
+
+5x links to new (optional)
+
+•
+
+5x links to sensemaking (optional)
+
+•
+
+5x links to completely random
+(must)
+
+pages that are set to index
+
+• mark-up as: <ul><li><a> headed
+
+by <h3>
+
+• positioned somewhere inside the
+
+main content area, dont hide them
+
+• they must not be in the footer!
+
+<h3>Discover {% Brand %}</h3>
+<ul>
+<li><a href="/page-url-1">Random Link 1</a></li>
+<li><a href="/page-url-2">Random Link 2</a></li>
+<li><a href="/page-url-3">Random Link 3</a></li>
+<li><a href="/page-url-4">Random Link 4</a></li>
+<li><a href="/page-url-5">Random Link 5</a></li>
+</ul>
+
+•
+
+Targeted Pages
+•
+
+Targeted Detail Page (shows 1 Item)
+
+•
+
+Targeted List Page (shows multiple items)
+
+•
+
+Distribution (sitemap.xml)
+
+•
+
+Startpage
+
+•
+
+Everything else is Ballast!
+
+Plattform
+
+SEO Plattform
+
+•
+
+if we add x% more targeted-pages to our site, we gain y% more
+traf c.
+
+•
+
+if we update x% of our pages, we gain z% more traffic.
+
+•
+
+if we make the user experience of our site better, our traf c gets
+more sustainable.
+
+•
+
+if we gain more brand recognition, our traf c gets more
+sustainable.
+
+•
+
+if other sites point x% more links to our targeted-pages, we gain
+y% more traffic.
+
+Processes
+
+after the SEO platform is optimized, this SEO business logic is
+possible:
+
+fi
+
+•
+
+fi
+
+fi
+
+SEO Business Case
+
+•
+
+SEO process optimization is all about:
+
+•
+
+how do we create x% more targeted-pages with valuable,
+unique content? (detail pages and list pages)
+
+•
+
+how do we add content/update x% of our targeted-pages?
+
+•
+
+how do we assure that our site gets better usage values?
+
+•
+
+how do we assure that our site gets more brand
+recognition?
+
+•
+
+how do we get other sites to point x% more links to our
+targeted-pages?
+
+Processes
+
+SEO Processes
+
+crawl rate issues
+maye doch robots.txt instead of noindex for eh /f/ pages pr and con
+and so on
+
+• interlinking strategy!
+• now LP
+• job pages
+• job list pages
+• zigarett prices pages
+• people pages
+• PDFs as pages indexable
+
+Where do pages come from?
+
+Page Creation Processes
+
+Navigational
+
+When to create a page?
+• 1) Do people search for it? Now or in the future?
+• If yes -> Go To 2
+• If no -> Not Part of SEO
+• 2) Do we want to get found for it?
+• If yes -> Create Targeted Page
+• If no -> Don’t create Targeted Page
+
+When to create a page?
+• 1) Do people search for it? Now or in the future?
+• If yes -> Go To 2
+• If no -> Not Part of SEO
+• 2) Do you want to get found for it?
+• If yes -> Create Targeted Page if you can ful l 3)
+• If no -> Don’t create Targeted Page
+• 3) The QC question: Can we create a good page for it?
+• If yes -> Create Targeted Page
+
+fi
+
+• If now -> Don’t create Targeted Page.
+
+goal is to create as many targeted pages that ful ll
+
+the QC
+QC = quality criteria
+
+•
+
+Targeted Pages (Ful lls all Targeted Page Criterias)
+
+•
+
+Distribution (Sitemap.xml)
+
+•
+
+Startpage
+
+•
+
+Ballast!
+
+•
+
+Ballast should not exist or not get indexed!
+fi
+
+fi
+
+SEO Plattform
+
+fi
+
+fi
+
+the QC
+•
+
+Page ful ls the companies product standard! (A good page!!!)
+
+•
+
+Page ful ls a minimal content standard (z.B.: structured
+content + image, at least 5 items, …)
+
+•
+
+The QC guarantees that the content is not internal duplicate
+content or an internal duplicate combination of content (a list
+with the exact same items as another list)
+
+•
+
+The QC guarantees that the content is not external duplicate
+copy of some already indexed content.
+
+•
+
+The QC guarantees that the page has unique content or a
+unique combination of content!
+
+QC impact
+•
+
+set to index via the robots meta tag (if no robots meta tag is set, index is the default)
+
+•
+
+systematically interlinked
+
+•
+
+liste in the sitemap.xml
+
+pages that do not ful ll the QC
+•
+
+either do not exist (HTTP 404, HTTP 410) - or - are set to noindex via the meta robots tag
+
+•
+
+are not systematically interlinked
+
+•
+
+are not listed in the sitemap.xml
+
+fi
+
+•
+
+pages that ful ll the QC are
+
+fi
+
+•
+
+Editorial
+Detail-Page Creation
+
+Database
+Detail-Page Creation
+
+Category / Filter
+List-Page Creation
+
+Search
+List-Page Creation
+
+Themen/Tag
+List-Page Creation
+
+Retroaktives Targeting 🤢
+
+Warning: Retroactive targeting always leads
+to a sub-optimal (a.k.a. bad) user experience and is
+the reason for the bad reputation of SEO.
+
+The Long Tail of Search
+Demand
+
+The Long Tail of Search
+Demand
+Brand
+Driven SEO
+
+Content Marketing
+Driven SEO
+
+Database /
+Automation /
+Aggregation Driven
+SEO
+
+• DP Strategy of Things that you do not have under editorial control.
+
+Idea: Making PDFs like Jahresabschluss real
+Landingpage
+• i.e.: https://www.evi.gv.at/b/pi/bmr-s4c
+• you can communciate the PDFs just like that to Google
+• put them into a pdf-sitemap-index.xml -> pdf-sitemap-001.xml
+• downside: tra c - but tra c will not show up in the matomo and users
+will not know that it was provided by EVI and what evi is.
+
+ffi
+
+ffi
+
+• or .. next slide
+
+PDFs as landingpages
+Extend this page https://www.evi.gv.at/b/pi/bmr-s4c
+
+• instead of just linking to
+• Option 1: Render the PDF as HTML. ad an EVI Frame around it. (Hard to get
+good, impossible to get right 100%)
+
+• Option 2: Create a PDF.js PDF viewer! In an accordion below you show the
+content of the PDF only minimal styles in an accordion. You close that
+accordion on MUI.
+
+• Option 3: Create a PDF.js PDF viewer! The text of the PDF is part of the
+<noscript> tag.
+
+• The original PDF always is for download - no change to current logic!
+
+Option 1
+
+Option 2 & Option 3
+
+This can be done for all PDFs
+• what other PDFs do you publish
+• Jahresabschluss https://www.evi.gv.at/b/pi/bmr-s4c
+• Konzernabschluss https://www.evi.gv.at/b/pi/bml-zqv
+• Tabakpreise https://www.evi.gv.at/b/pi/bml-cqq
+• Mitglieder des Vorstands https://www.evi.gv.at/b/pi/bmr-glw
+• Dividenden https://www.evi.gv.at/b/pi/bmj-p2n
+• Lotterie https://www.evi.gv.at/b/pi/bmr-mml
+• Jobposting https://www.evi.gv.at/b/pi/bmg-qvy
+• Vorstand https://www.evi.gv.at/b/pi/bmh-hkc
+
+Google For Jobs
+
+Google for Jobs
+
+Speci cation https://developers.google.com/search/docs/appearance/
+structured-data/job-posting
+
+fi
+
+• i.e.: https://www.evi.gv.at/b/jb/bmr-7mz
+
+Follow the spec
+• https://developers.google.com/search/docs/appearance/structured-data/job-posting
+• https://developers.google.com/search/apis/indexing-api/v3/quickstart
+
+Other Detail Pages
+
+New List Pages
+Brand
+Driven SEO
+
+Content Marketing
+Driven SEO
+
+Database /
+Automation /
+Aggregation Driven
+SEO
+
+Critque https://www.evi.gv.at/lp/hauptversammlungen
+- https://evi2.franzai.com/#slide-s54
+• SEO Title: <title>Hauptversammlungen in Österreich</title> no Brand
+• H1 not biggest headline above fold
+• why a nofollow element? <a target="_blank" rel="nofollow" href="https://www.ris.bka.gv.at/eli/bgbl/1984/379/P27/NOR40254112">§ 27 ORF-Gesetz</a>? no to negative SEO value
+• why <meta name="robots" content="index, noimageindex">? is there a business reason? otherwise not use it!
+
+• why do you have stu on deskopt that is not on mobile?
+
+no SEO value at all #ballast - if you have an image it must be visible on mobiel and one side must be bigger
+
+than 1200px (either srcset or link to bigger verison of itself)
+
+• Image has no alt text
+• subheadliens in listitems should be subheadlines? not DIVs
+• mini optimizatin: link the headline + underline it per listitem, do not link the full list item!
+• more extensive list item
+
+editorial text is a dependency for future performance
+
+• no FAQ rich snippets even though FAQ https://search.google.com/test/rich-results?url=https%3A%2F%2Fwww.evi.gv.at%2Flp%2Fhauptversammlungen
+• missing interlinking to other landingpages
+
+ff
+
+is/should: https://docs.google.com/document/d/
+1r4i2_mfQ7Jxp34Wl5-3iwWI56xNawBxfOqAh_AOr6sY/edit?
+tab=t.0#heading=h.q4k1vkbvyuu4 - for item markup, FAQ, Alt text
+
+Critique https://www.evi.gv.at/lp/orfjobs
+• https://evi2.franzai.com/#slide-s55
+• short meta description
+• super minimal listitems
+• no links to other listpages
+• SLIDING CONTENT ISSUE
+old jobs not visible
+
+• https://docs.google.com/document/d/
+
+1zQWMQjtoQZhmcVzwEWQiMMxKBe5b6tW2mPRtqoH9mzw/edit?
+tab=t.0#heading=h.rj3s4ghjkjx5
+
+Sliding Content
+
+fi
+
+• 0 is a bad list. If you do not have enough content, ll it up with out of date listings. do not paginate them
+
+https://chatgpt.com/share/e/68d8545d-b7a4-8004-9467-fe8a9961b662
+
+More Page Types Ideas (Jobs)
+• Jobs Bundesdienst
+• Jobs Finanzministerium, Jobs Landwirtschaftsministerium, ...
+• Jobs Oenb
+• Jobs Wien, Jobs Vorarlberg
+• Jobs Feldkirchen, Jobs Linz, ...
+• Vorstand Jobs
+• and combinations of thos i.e. Vorstand Jobs Linz, Finanzministerium Linz Jobs
+• QC: only create a job list page if you have more than x (i.e. 3) jobs. outdated or active, does not matter!
+• must interlink each other + 5 random links
+
+More Page Types Ideas
+• Aktuell Firmengründungen 2025, Firmengründungen 2024, ...
+• Aktuelle Firmengründungen Wien, Aktuelle Firmengründungen Salzburg, ...
+• Aktuelle Insolvenzen Österreich 2025, Insolvenzen Österreich 2024, ..
+• Insolvenzen Wien, Insolvenzen Niederösterreich, .... Insolvenzen Linz
+• Aktuelle Liquidationen 2025, Liquidationen 2024, (+ Year, +Location)
+• Firmenneugründungen (+ Year, +Location)
+• Gläubigeraufruf (+ Year, +Location)
+
+Tabakpreise / Zigarettenpreise
+
+• Zigarettenpreise Österreich
+• Zigarettenpreise Marlboro Österreich, Zigarettenpreise Chester eld
+
+fi
+
+Österreich
+
+Dividenden
+
+• Aktuelle Dividenden Österreich 2025
+• Dividenden Österreich 2024, Dividenden Österreich 2023
+
+Topic Page
+
+Query Builder vs Filter Pages
+
+• a powerful backend search interface that packages
+listitems onto a single targeted list page
+
+• per "query" create 1 page
+
+fi
+
+• search might even go over full text
+
+• based on a pattern in the backend, multipel meta data searches get
+created
+
+• and if they ful lle the QC i.e. 5 listitems the page gets created
+• creates multipe pages based on a pattern
+
+#ai
+
+#ai
+
+•
+
+Targeted Pages
+•
+
+Targeted Detail Page (shows 1 Item)
+
+•
+
+Targeted List Page (shows multiple items)
+
+•
+
+Distribution (sitemap.xml)
+
+•
+
+Startpage
+
+•
+
+Everything else is Ballast!
+
+Plattform
+
+SEO Plattform
+
+•
+
+if we add x% more targeted-pages to our site, we gain y% more
+traf c.
+
+•
+
+if we update x% of our pages, we gain z% more traffic.
+
+•
+
+if we make the user experience of our site better, our traf c gets
+more sustainable.
+
+•
+
+if we gain more brand recognition, our traf c gets more
+sustainable.
+
+•
+
+if other sites point x% more links to our targeted-pages, we gain
+y% more traffic.
+
+Processes
+
+after the SEO platform is optimized, this SEO business logic is
+possible:
+
+fi
+
+•
+
+fi
+
+fi
+
+SEO Business Case
+
+•
+
+SEO process optimization is all about:
+
+•
+
+how do we create x% more targeted-pages with valuable,
+unique content? (detail pages and list pages)
+
+•
+
+how do we add content/update x% of our targeted-pages?
+
+•
+
+how do we assure that our site gets better usage values?
+
+•
+
+how do we assure that our site gets more brand
+recognition?
+
+•
+
+how do we get other sites to point x% more links to our
+targeted-pages?
+
+Processes
+
+SEO Processes
+
+

@@ -1,0 +1,21 @@
+<li class="job-posting status-{{status}}" data-job-id="{{id}}">
+  <article aria-labelledby="job-title-{{id}}">
+    <header>
+      <h3 class="job-title" id="job-title-{{id}}">
+        <a href="/lp/orfjobs/jobs/{{id}}/">{{title}}</a>
+      </h3>
+      {{#org}}<p class="hiring-organization">{{org}}</p>{{/org}}
+    </header>
+    {{#expired}}<div class="expired-label">Bewerbungsfrist abgelaufen</div>{{/expired}}
+    <dl class="job-details">
+      {{#loc}}<dt>Standort:</dt><dd>{{loc}}</dd>{{/loc}}
+      {{#published}}<dt>Veröffentlicht am:</dt><dd><time datetime="{{published}}">{{publishedHuman}}</time></dd>{{/published}}
+      {{#applyStart}}<dt>Bewerbungsfrist beginnt:</dt><dd><time datetime="{{applyStart}}">{{applyStart}}</time></dd>{{/applyStart}}
+      {{#applyEnd}}<dt>Bewerbungsfrist endet:</dt><dd><time datetime="{{applyEnd}}">{{applyEnd}}</time></dd>{{/applyEnd}}
+      {{#salary}}<dt>Jahresgehalt (Brutto):</dt><dd>{{salary}}</dd>{{/salary}}
+      {{#from}}<dt>Beschäftigungsbeginn:</dt><dd><time datetime="{{from}}">{{from}}</time></dd>{{/from}}
+      {{#to}}<dt>Beschäftigungsende:</dt><dd><time datetime="{{to}}">{{to}}</time></dd>{{/to}}
+      {{#group}}<dt>Verwendungsgruppe:</dt><dd>{{group}}</dd>{{/group}}
+    </dl>
+  </article>
+</li>
