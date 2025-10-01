@@ -38,6 +38,14 @@ export const parseAll = async () => {
   for (const it of items) details.push(await parseDetail(it.id, it.published))
   const today = new Date().toISOString().slice(0, 10)
   for (const d of details) d.status = d.applyEnd && d.applyEnd < today ? 'expired' : 'active'
+  // Add dummy expired jobs for workshop demo
+  const dummyExpired = [
+    { id: 'dummy-1', title: 'Österreichischer Rundfunk (71451a) | Stellenausschreibung Redakteur:in TV-Dokumentation', org: 'Österreichischer Rundfunk (ORF)', loc: 'Wien', published: '2025-09-15', applyStart: '2025-09-15', applyEnd: '2025-09-28', salary: '€ 52.430,00 inkl. Sonderzahlungen', group: '5', status: 'expired' },
+    { id: 'dummy-2', title: 'Österreichischer Rundfunk (71451a) | Stellenausschreibung Kameramann/-frau', org: 'Österreichischer Rundfunk (ORF)', loc: 'Salzburg', published: '2025-09-10', applyStart: '2025-09-10', applyEnd: '2025-09-24', salary: '€ 48.900,00 inkl. Sonderzahlungen', group: '4', status: 'expired' },
+    { id: 'dummy-3', title: 'Österreichischer Rundfunk (71451a) | Stellenausschreibung Moderator:in Ö3', org: 'Österreichischer Rundfunk (ORF)', loc: 'Wien', published: '2025-09-05', applyStart: '2025-09-05', applyEnd: '2025-09-20', salary: '€ 75.000,00 inkl. Sonderzahlungen', group: '9', status: 'expired' },
+    { id: 'dummy-4', title: 'Österreichischer Rundfunk (71451a) | Stellenausschreibung IT-Administrator:in', org: 'Österreichischer Rundfunk (ORF)', loc: 'Wien', published: '2025-09-01', applyStart: '2025-09-01', applyEnd: '2025-09-15', salary: '€ 60.000,00 inkl. Sonderzahlungen', group: '7', status: 'expired' }
+  ]
+  details.push(...dummyExpired)
   details.sort((a, b) => (b.published || '').localeCompare(a.published || ''))
   return details
 }

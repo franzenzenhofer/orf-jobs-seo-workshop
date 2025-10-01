@@ -1,5 +1,11 @@
 Scope: this folder and subdirectories.
 
+**IMPORTANT: DIRECT HTML EDITING APPROACH**
+
+- **Primary workflow**: Edit `public/index.html` directly for all changes
+- **NO build system**: Do not use `npm run build` or modify src/ files
+- **Workshop dummy**: This is a static SEO-optimized HTML file for workshop demonstration
+
 Guidelines
 
 - Keep each source file under 75 lines.
